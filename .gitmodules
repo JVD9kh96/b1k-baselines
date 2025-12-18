@@ -1,6 +1,6 @@
 [submodule "baselines/openpi"]
 	path = baselines/openpi
-	url = https://github.com/wensi-ai/openpi.git
+	url = https://github.com/JVD9kh96/openpi.git
 	branch = behavior
 [submodule "baselines/il_lib"]
 	path = baselines/il_lib
